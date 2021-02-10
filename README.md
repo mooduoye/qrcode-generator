@@ -1,2 +1,2 @@
-#QRcode Generator 
+#QRcode_Generator 
 QR Code Barcode Generator 
